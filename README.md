@@ -1,5 +1,6 @@
 # Rotating Animation Design
-
+##Demo
+![animation](https://github.com/Dirojini/rotating-animation/blob/e6dcd3106782a1e4212fe38d67bbb8b9206d3347/Screenshot%202024-12-24%20114303.png)
 A sleek and smooth rotating animation design created using HTML and CSS. This animation can be used for elements like cards, modals, or transitions between quiz questions.
 
 ## Features
